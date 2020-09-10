@@ -55,6 +55,3 @@ app.post("/", (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
   console.log(`App listening on port ${process.env.PORT || 3000}`);
 });
-
-// 96cee7bd83f93e7c869244c78a7c711e-us2
-// 8b4cf2b27e
